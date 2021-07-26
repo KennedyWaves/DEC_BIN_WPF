@@ -1,0 +1,7 @@
+D:\Projects\DEC_BIN_WPF\DEC_BIN_WPF\obj\x86\Debug\MainWindow.baml
+D:\Projects\DEC_BIN_WPF\DEC_BIN_WPF\obj\x86\Debug\MainWindow.g.cs
+D:\Projects\DEC_BIN_WPF\DEC_BIN_WPF\obj\x86\Debug\App.g.cs
+D:\Projects\DEC_BIN_WPF\DEC_BIN_WPF\obj\x86\Debug\DEC_BIN_WPF_MarkupCompile.cache
+D:\Projects\DEC_BIN_WPF\DEC_BIN_WPF\obj\x86\Debug\DEC_BIN_WPF.g.resources
+D:\Projects\DEC_BIN_WPF\DEC_BIN_WPF\obj\x86\Debug\DEC_BIN_WPF.Properties.Resources.resources
+D:\Projects\DEC_BIN_WPF\DEC_BIN_WPF\obj\x86\Debug\DEC_BIN_WPF.csproj.GenerateResource.Cache
